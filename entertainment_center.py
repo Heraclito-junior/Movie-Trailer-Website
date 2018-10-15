@@ -14,7 +14,7 @@ toy_story = media.Movie(
     )
 
 avatar = media.Movie(
-    "Avatar1",
+    "Avatar",
     "A marine on an alien planet",
     "https://upload.wikimedia.org/wikipedia/pt/thumb/b/b0/" +
     "Avatar-Teaser-Poster.jpg/250px-Avatar-Teaser-Poster.jpg",
